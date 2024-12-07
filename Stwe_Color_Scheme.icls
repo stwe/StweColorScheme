@@ -200,9 +200,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="97f7f" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f826b" />
+        <option name="FOREGROUND" value="9b9b9b" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -233,24 +238,29 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f826b" />
+        <option name="FOREGROUND" value="9b9b9b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="67a37c" />
+        <option name="FOREGROUND" value="9b9b9b" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="abadb3" />
+        <option name="FOREGROUND" value="9b9b9b" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="818181" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="68a67e" />
+        <option name="FOREGROUND" value="9b9b9b" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_DOT">
@@ -303,12 +313,12 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5f826b" />
+        <option name="FOREGROUND" value="9b9b9b" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="9b9b9b" />
+        <option name="FOREGROUND" value="97f7f" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -402,6 +412,7 @@
         <option name="EFFECT_COLOR" value="6f737a" />
       </value>
     </option>
+    <option name="Doxygen Parameter" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fa6675" />
