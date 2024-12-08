@@ -26,6 +26,8 @@ You're all set! Enjoy coding with your new color scheme.
 
 <img src="https://github.com/stwe/StweColorScheme/blob/main/res/1.png" />
 
+<img src="https://github.com/stwe/StweColorScheme/blob/main/res/2.png" />
+
 ## License
 
 Stwe Color Scheme is licensed under the GPL-2.0 License, see [LICENSE](https://github.com/stwe/StweColorScheme/blob/main/LICENSE) for more information.
